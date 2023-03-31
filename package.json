@@ -1,0 +1,14 @@
+ {
+  "name": "packagejson",
+  "version": "1.0.0",
+  "description": "creating package.json with npm init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifechimenim Ikwukala-Mbas",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
